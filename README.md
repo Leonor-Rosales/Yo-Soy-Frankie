@@ -14,4 +14,7 @@ Esta serie fue una de mis favoritas por los temas que abarcaba, además de ser e
             
 ### Vinculos acerca de los temas que se llevaron acabo en la serie
 1. [Robots en la indrustris electrónica](https://www.infobae.com/inhouse/2022/04/22/la-robotica-ya-es-una-realidad-en-la-industria-electronica/).
+![Robots](https://img.redbull.com/images/c_fill,w_1200,h_630,g_auto,f_auto,q_auto/redbullcom/2018/01/09/5d50d7e2-034e-4842-8447-5cb366e718ab/robots-aflac-aibo-atrorbiter-cujo-p).
+
 2. [Gastronomía Molecular](https://www.barcelonaculinaryhub.com/blog/gastronomia-molecular-laboratorio-cocina).
+![Comida Molecular](https://ingenieriademenu.com/wp-content/uploads/2021/07/Cocina-molecular-conceptos-tecnicas-y-recetas-1.jpg).
